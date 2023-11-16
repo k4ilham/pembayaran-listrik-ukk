@@ -10,10 +10,13 @@ Repository ini merupakan proyek Laravel untuk aplikasi pembayaran listrik sebaga
 ## Git:
 ```bash 
    buat repository
+   git config --global user.name "User 72"
+   git config --global user.email "user72@realtechltd.com"
    git init
    git remote add origin https://github.com/k4ilham/pembayaran-listrik-ukk.git
-
-
+   git add .
+   git commit -m "Sail & Filamen"
+   git push --set-upstream origin master
 ```
 ## Instalasi Laravel Sail:
 ```bash 
